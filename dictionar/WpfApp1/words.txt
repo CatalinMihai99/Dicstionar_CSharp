@@ -1,0 +1,30 @@
+Masa
+Mobilier
+Piesa de mobilier unde se serveste masa
+Pasare
+Animale
+Animal de mici dimensiuni ce poate zbura
+Scaun
+Mobilier
+Obiect pe care se aseaza oamenii
+Pat
+Mobilier
+Piesa de mobilier pe care oamenii dorm
+Pisica
+Animale
+Animal cu 9 vieti
+Paine
+Alimente
+Aliment facut preponderent din faina
+Birou
+Mobilier
+Mobilier utilizat pentru asezarea diferitor lucruri pe el
+Carne
+Alimente
+Aliment obtinut din animale bagat in proteine
+Cangur
+Animale
+Animal cu marsupiu
+Maimuta
+Animale
+Animal exotic ce seamana cu omul
